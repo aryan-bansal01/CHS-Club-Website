@@ -1,0 +1,95 @@
+@charset "utf-8";
+#navbarSupportedContent1 .navbar-nav.mr-auto #webdev_link {
+    margin-left: 56em;
+}
+.navbar.fixed-top.navbar-expand-lg.navbar-light.bg-light {
+    background-color: #824748;
+}
+
+.header {
+    backround-color:black;
+}
+
+
+#CHS_Logo {
+	width: 6em;
+}
+.container-fluid {
+    background-image: -webkit-linear-gradient(270deg,rgba(71,28,28,1.00) 0%,rgba(255,0,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(71,28,28,1.00) 0%,rgba(255,0,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(71,28,28,1.00) 0%,rgba(255,0,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(71,28,28,1.00) 0%,rgba(255,0,0,1.00) 100%);
+	padding-top: 8em;
+    
+}
+
+h1 {
+	text-align: center;
+}
+
+iframe {
+	border: solid white 0.5em;
+	width: 800px;
+	height: 450px;
+	margin: 0 auto;
+	flex:60%;
+}
+
+.carousel-inner {
+	padding-bottom: 1em;
+}.navbar_container .navbar.fixed-top.navbar-expand-lg.navbar-light.bg-light {
+    background-color: #010101;
+
+
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    font-size: x-large;
+}
+.navbar-nav.mr-auto #webdev_link .nav-link {
+    font-size: medium;
+    text-shadow: 0px 0px;
+    margin-left: 0%;
+}
+.navbar.fixed-top.navbar-expand-lg.navbar-light.bg-light .navbar-toggler .navbar-toggler-icon {
+    background-color: #CB2527;
+}
+
+ 
+.parent {
+	display: flex;
+	flex-wrap:wrap;
+	
+}
+
+.navbar-nav.mr-auto .nav-item.active .nav-link {
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: black;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+}
+.navbar-nav.mr-auto #webdev_link .nav-link {
+    font-family: "Eras Demi ITC", Centaur;
+    font-size: large;
+}
+
+#navbarSupportedContent1 .navbar-nav.mr-auto .nav-item {
+    margin-left: 1em;
+}
+.container-fluid h1 {
+    font-family: "Yu Gothic";
+}
+
+#aboutUs {
+	flex: 40%;
+	padding: 5em 2.5em;
+}
+.container-fluid .parent #aboutUs {
+    color: #FFFFFF;
+    font-family: "Eras Demi ITC", Centaur;
+    font-style: oblique;
+    font-weight: 400;
+    line-height: 1.5em;
+    text-shadow: 1.5px 1.5px 7px #0A0909;
+    text-align: center;
+}
